@@ -1,7 +1,2 @@
-# -xAlfons69
-s
-s
-s
-s
-s
-s
+Języki i narzędzia:
+![68747470733a2f2f692e696d6775722e636f6d2f4c775364416c452e706e67](https://user-images.githubusercontent.com/77631315/110176073-11965a80-7e03-11eb-99cc-8af14307eaae.png)
