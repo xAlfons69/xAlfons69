@@ -18,4 +18,4 @@ Languages and Tools:
 
 
 
-© https://github.com/xAlfons69
+© xAlfons69
