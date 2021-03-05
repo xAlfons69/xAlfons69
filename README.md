@@ -1,3 +1,4 @@
 Języki i narzędzia:
 
-![favicon](https://user-images.githubusercontent.com/77631315/110176313-60dc8b00-7e03-11eb-992a-4eabe9c1b1a9.png)
+![New Project](https://user-images.githubusercontent.com/77631315/110176414-879ac180-7e03-11eb-8ecc-c32b884769f2.png)
+
