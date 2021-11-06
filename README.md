@@ -1,6 +1,6 @@
 ## zdjecie sama góra
 
-<a href= "#"><img width= "100%" src="https://i.imgur.com/2IJTZZc.png" height="175px"/></a>
+<a href= "#"><img width= "50%" src="https://i.imgur.com/2IJTZZc.png" height="175px"/></a>
 
 
   - 💻 JS
