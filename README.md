@@ -16,7 +16,6 @@ Languages and Tools:
 ![New Project (3)](https://user-images.githubusercontent.com/77631315/110176736-18719d00-7e04-11eb-9946-f559f4c4938b.png) ![New Project (5)](https://user-images.githubusercontent.com/77631315/110176931-6686a080-7e04-11eb-91c6-3368d9ca95a6.png)
 ![New Project (4)](https://user-images.githubusercontent.com/77631315/110176852-40610080-7e04-11eb-89f0-165bcc81c558.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAlfons69)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAlfons69&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAlfons69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
