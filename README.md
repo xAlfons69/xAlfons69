@@ -1,8 +1,5 @@
 ## zdjecie sama góra
 
-<a href= "#"><img width= "10%" src="https://i.imgur.com/2IJTZZc.png" height="250px"/></a>
-
-
   - 💻 JS
 
 ## statystyki
